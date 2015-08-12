@@ -1,7 +1,7 @@
 === WooCommerce Edit Order Numbers ===
 
-Contributors: UltimateWoo
-Tags: WooCommerce
+Contributors: ultimatewoo
+Tags: WooCommerce, Order Numbers
 Tested up to: 4.3
 Stable tag: 1.0
 License: GPL 2.0+
@@ -29,7 +29,7 @@ To edit an order number, view the WooCommerce Orders page. The plugin adds a new
 
 == Screenshots ==
 
-None currently
+1. The Edit Order Number column added to the Orders table list. To edit an order number, change the input field and click the refresh icon. If the changes is successful, it will update immediately.
 
 == Changelog ==
 
