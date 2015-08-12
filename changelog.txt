@@ -1,0 +1,4 @@
+WooCommerce Edit Order Numbers Change Log
+
+August 10, 2015 - version 1.0
+* First version
